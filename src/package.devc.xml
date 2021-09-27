@@ -3,10 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>to be deleted. to test a solution involving TRs.</CTEXT>
-    <COMP_POSID>BC-CP-ABA-GIT</COMP_POSID>
-    <COMPONENT>B6S0000011</COMPONENT>
+    <CTEXT>To reproduce 2FA issue in abapGit adt</CTEXT>
     <TPCLASS>X</TPCLASS>
+    <SRV_CHECK>X</SRV_CHECK>
    </DEVC>
   </asx:values>
  </asx:abap>
