@@ -1,4 +1,4 @@
-CLASS zcl_test_class_sw DEFINITION
+CLASS zcl_test_class_sw_2 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -6,11 +6,9 @@ CLASS zcl_test_class_sw DEFINITION
   PUBLIC SECTION.
   PROTECTED SECTION.
   PRIVATE SECTION.
-   "Class is modified
 ENDCLASS.
 
 
 
-CLASS zcl_test_class_sw IMPLEMENTATION.
-
+CLASS zcl_test_class_sw_2 IMPLEMENTATION.
 ENDCLASS.
