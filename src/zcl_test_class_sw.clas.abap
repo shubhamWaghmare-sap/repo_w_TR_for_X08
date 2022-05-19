@@ -6,7 +6,7 @@ CLASS zcl_test_class_sw DEFINITION
   PUBLIC SECTION.
   PROTECTED SECTION.
   PRIVATE SECTION.
-   "Class is modified
+   "Class is modified locally
 ENDCLASS.
 
 
